@@ -1,0 +1,42 @@
+{
+  "company": {
+    "name": "Atelier Garona — Intendance & Remise en État",
+    "legalNoticeNote": "Informations de structure centralisées — Modifiables dans assets/js/site-config.js",
+    "tagline": "Coordination opérationnelle après occupation illicite, débarras intégral, remise en état et valorisation immobilière en Haute-Garonne.",
+    "email": "tps.toulouse31@gmail.com",
+    "phoneDisplay": "Contact par écrit ou rappel programmé",
+    "addressLocality": "Toulouse",
+    "addressRegion": "Occitanie",
+    "postalCode": "31000",
+    "country": "FR",
+    "interventionRadius": "Toulouse et première/deuxième couronne (35 km)",
+    "communes": [
+      "Toulouse (tous quartiers : Côte Pavée, Busca, Carmes, Saint-Cyprien, Minimes, Mirail, Rangueil, Croix-Daurade, Sept Deniers, Pouvourville)",
+      "Blagnac",
+      "Colomiers",
+      "Tournefeuille",
+      "Muret",
+      "Balma",
+      "L'Union",
+      "Ramonville-Saint-Agne",
+      "Castanet-Tolosan",
+      "Saint-Orens-de-Gameville",
+      "Cugnaux",
+      "Plaisance-du-Touch",
+      "Escalquens",
+      "Labège",
+      "Aucamville",
+      "Launaguet",
+      "Fonbeauzard",
+      "Castelginest",
+      "Saint-Jean",
+      "Quint-Fonsegrives",
+      "Portet-sur-Garonne"
+    ]
+  },
+  "formEndpoint": {
+    "mode": "mailto_and_custom_webhook",
+    "webhookUrl": "",
+    "recipientEmail": "tps.toulouse31@gmail.com"
+  }
+}
